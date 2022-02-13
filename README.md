@@ -112,3 +112,11 @@ ChromeかEdgeでRemapにアクセスしてください。
 ⇔アイコンで作ったレイアウトを保存することができます。  
 いくつかサンプルをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
 ![](img/re.jpg)  
+
+## その他
+foostan様のフットプリントを流用、改変して使わせていただきました。  
+https://github.com/foostan/kbd/  
+https://github.com/foostan/kbd/blob/master/LICENSE  
+
+- BOOTH: https://tarohayashi.booth.pm/items/3430753
+- 遊舎工房: https://shop.yushakobo.jp/products/3415
