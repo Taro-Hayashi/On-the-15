@@ -13,9 +13,9 @@
 |1|メインボード|1||
 |2|トッププレート|1||
 |3|ゲタ|2||
-|3|ネジ（短）|5|4mm|
-|4|スペーサー|8|8mm|
-|5|ナット|8|8mm|
+|3|ネジ|13|4mm|
+|4|スペーサー|8|3mm|
+|5|ナット|8||
 |6|Cherry MX ホットスワップソケット|60||
 
 ### キット以外に必要なもの
@@ -113,10 +113,3 @@ ChromeかEdgeでRemapにアクセスしてください。
 いくつかサンプルをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
 ![](img/re.jpg)  
 
-## その他
-foostan様のフットプリントを流用、改変して使わせていただきました。  
-https://github.com/foostan/kbd/  
-https://github.com/foostan/kbd/blob/master/LICENSE  
-
-- BOOTH: https://tarohayashi.booth.pm/items/3430753
-- 遊舎工房: https://shop.yushakobo.jp/products/3415
