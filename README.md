@@ -4,20 +4,32 @@
 - [ソケットのはんだ付け](#ソケットのはんだ付け)
 - [組み立て](#組み立て)
 - [キーマップのカスタマイズ](#キーマップのカスタマイズ)
-- [その他](#その他)
 
 ## キット内容
 ![](img/IMG_4355.jpg)  
 ||部品名|数| |
 |-|-|-|-|
+|1|メインボード|1||
+|2|トッププレート|1||
+|3|ゲタ|2||
+|3|ネジ|13|4mm|
+|4|スペーサー|8|3mm|
+|5|ナット|8||
+|6|Cherry MX ホットスワップソケット|60||
 
 ### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
+|キースイッチ||CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/mx-switches)|
+|キーキャップ||CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)|
+|Type-C ケーブル|1|||
 
 ### オプション
 |部品名|数|||
 |-|-|-|-|
+|スタビライザー|必要数|2U、PCBマウント|[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/Stabilizer) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=5f884b9b3313d216eb50558a)|
+|ロータリーエンコーダ|～4|EC11/EC12/ロープロファイル|[遊舎工房](https://shop.yushakobo.jp/search?q=%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC+%E3%83%8E%E3%83%96%E4%BB%98%E3%81%8D) / [TALPKEYBOARD](https://talpkeyboard.net/items/5f3f1a597df28129f2fd4b0f) / [DailyCraftKeyboard](https://shop.dailycraft.jp/products/encoder_low) / [Amazon](https://www.amazon.co.jp/s?k=EC11+%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC&language=ja_JP)|
+|ノブ|～4|外径19mmまで|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/encoder_lowprofile_knob) / [Amazon](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC+%E3%83%8E%E3%83%96)|
 
 ### 必要な工具
 |工具名|
@@ -27,30 +39,25 @@
 |鉛入りはんだ|
 |ピンセット|
 |精密ドライバー|
-|ニッパー等ダイオードの足を切れるもの|
-
-### あると便利な工具
-|工具名|
-|-|
-|耐熱シリコンマット|
-|温度調節可能なはんだごて|
-|斜めに切ったタイプのこて先|
-|フラックス|
-|フラックスリムーバー、IPA|
-|テスター|
-|マスキングテープ|
-|はんだ吸い取り線|
-|はんだ吸い取り器|
 
 ## レイアウトを決める
 On the 15は60キーの格子配列キーボードですが、色のついたところは交換が可能になっています。
 
 ビルドガイドではこのような配列で組み立てます。　
 
-RemapやKeyboard LAyout Editorで
+RemapやKeyboard Layout Editorでシミュレーションすることができます。
+- Remap
+- Keyboard Layout Editor
 ## ソケットのはんだ付け
+使うソケットのパッドに予備はんだをします。あらかじめ薄くはんだを乗せます。  
+ソケットを置いたらピンセットで押さえつけながらはんだを注いでいきます。入り組んでいて表面積が多いので多めに必要になります。 
+この1つのソケットの足はすこしパッドから離れているのでブリッジ気味にはんだ付けします。
 
 ### （オプション）ロータリーエンコーダーのはんだ付け
+足を折らないようにホールに通します。  
+![](img/IMG_4410.jpg)   
+クリップの部分ははんだ付けしなくても大丈夫です。  
+![](img/IMG_4412.jpg)   
 
 ## 組み立て
 ### （オプション）スタビライザーを組み立てる
@@ -80,7 +87,7 @@ Type-Cのコネクタが付いている方を左側にして、画像のよう�
 ゲタにメインボードをのせて、トッププレートの穴からねじ止めします。
 
 キーキャップを付けたら完成です。
-
+LEDをオフにしたい場合は左上のキーを押しながらその下のキーを押してください。
 
 ## キーマップのカスタマイズ
 ChromeかEdgeでRemapにアクセスしてください。  
@@ -99,3 +106,4 @@ ChromeかEdgeでRemapにアクセスしてください。
 ⇔アイコンで作ったレイアウトを保存することができます。  
 いくつかサンプルをご用意しました。自分のレイアウトを公開することもできるので是非お試しください。
 ![](img/re.jpg)  
+
