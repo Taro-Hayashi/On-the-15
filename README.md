@@ -24,7 +24,7 @@
 |-|-|-|-|
 |キースイッチ||CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/mx-switches)|
 |キーキャップ||CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)|
-|60%ケース（DZ60, GH60, Poker互換）|1||[遊舎工房](https://shop.yushakobo.jp/collections/case/60-%E3%82%B1%E3%83%BC%E3%82%B9) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=616b94a72b36826570485308)|
+|60%ケース（DZ60, GH60, Poker互換）|1|対応を確認したケース|[遊舎工房](https://shop.yushakobo.jp/collections/case/60-%E3%82%B1%E3%83%BC%E3%82%B9) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=616b94a72b36826570485308)|
 |Type-C ケーブル|1|||
 
 ### オプション
