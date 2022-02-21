@@ -145,6 +145,9 @@ Remap用で一番数字が大きいファームウェアをFLASHします。テ�
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
 
+### VIA用JSON
+- [onthe15.json]()
+
 ### プレートのデータ
 - [onthe15_plates.zip]()
 
