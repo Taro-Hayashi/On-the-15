@@ -7,7 +7,7 @@
 - [そのほか](#そのほか)
 
 ## キット内容
-![](img/IMG_6310.jpg)  
+![](img/IMG_6330.jpg)  
 ||部品名|数| |
 |-|-|-|-|
 |1|メインボード|1||
@@ -23,9 +23,9 @@
 ### キット以外に必要なもの
 |部品名|数|||
 |-|-|-|-|
-|キースイッチ||CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/mx-switches)|
-|キーキャップ||CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)|
-|60%ケース（DZ60, GH60, Poker互換）|1|対応を確認したケース|[遊舎工房](https://shop.yushakobo.jp/collections/case/60-%E3%82%B1%E3%83%BC%E3%82%B9) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=616b94a72b36826570485308)|
+|キースイッチ|〜60|CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/mx-switches)|
+|キーキャップ|〜60|CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)|
+|60%ケース（DZ60, GH60, Poker互換）|1|[対応を確認したケース](case.md)|[遊舎工房](https://shop.yushakobo.jp/collections/case/60-%E3%82%B1%E3%83%BC%E3%82%B9) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=616b94a72b36826570485308)|
 |Type-C ケーブル|1|||
 
 ### オプション
@@ -47,7 +47,7 @@
 ## レイアウトを決める
 On the 15は60キーの格子配列キーボードですが、色のついたキーは長さを変更することできます。  
 ![](img/layout1.png)  
-ビルドガイドではこのような配列で組み立てます。　
+ビルドガイドではこのようなレイアウトで組み立てます。　
 ![](img/layout2.png)  
 RemapやKeyboard Layout Editorでシミュレーションすることもできます。  
 - Remap
@@ -115,7 +115,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
 
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
-![](img/remap3.png)  
+![](img/remap2.png)  
 
 ### レイアウトオプション
 キーの長さを作ったキーボードと合わせることができます。
@@ -146,10 +146,10 @@ Remap用で一番数字が大きいファームウェアをFLASHします。テ�
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
 
 ### VIA用JSON
-- [onthe15.json]()
+- [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15.json)
 
 ### プレートのデータ
-- [onthe15_plates.zip]()
+- [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15_plates.zip)
 
 ### 販売ページ
 - BOOTH: https://tarohayashi.booth.pm/items/3657566
