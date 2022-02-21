@@ -142,7 +142,7 @@ Remap用で一番数字が大きいファームウェアをFLASHします。テ�
 書き込みが完了したらウィンドウを閉じて大丈夫です。  
 ![](img/remap05.jpg) 
 
-### ファームウェアのフォルダ
+### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
 
 ### プレートのデータ
