@@ -122,12 +122,24 @@ ChromeかEdgeでRemapにアクセスしてください。
 ![](img/layoutoption.png)  
 ### レイアウトの保存と復元
 ⇔アイコンで作ったレイアウトを保存することができます。  
-![](img/savekeymap.png)  
+![](img/keymaps.png)  
 いくつかサンプルをご用意しました。自分のレイアウトを公開することもできます。
 
 ## そのほか
 ### リセットスイッチの押し方
 こちらの隙間からドライバーやピンセットを差し込むことで押すことができます。
+![](IMG_6327.jpg)  
+
+### ファームウェアのアップデート
+不具合なく動いている場合は必要ありません。問題があった場合はお試しいただくと解決することがあります。  
+Remapのファームウェアのページにアクセスしてください。  
+- Remap
+Remap用で一番数字が大きいファームウェアをFLASHします。テストをしたい場合はテスト版を選んでください。  
+![](img/remap06.jpg) 
+キットのリセットスイッチを押すとArduino Microが現れるので、クリックして接続します。  
+![](img/remap04.jpg) 
+書き込みが完了したらウィンドウを閉じて大丈夫です。  
+![](img/remap05.jpg) 
 
 ### ファームウェアのフォルダ
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
