@@ -105,11 +105,23 @@ ChromeかEdgeでRemapにアクセスしてください。
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap2.png)  
 
-## レイアウトオプション
+### レイアウトオプション
 キーの長さを作ったキーボードと合わせることができます。
 ![](img/layoutoption.png)  
-## レイアウトの保存と復元
+### レイアウトの保存と復元
 ⇔アイコンで作ったレイアウトを保存することができます。  
 ![](img/savekeymap.png)  
 いくつかサンプルをご用意しました。自分のレイアウトを公開することもできます。
 
+## そのほか
+### リセットスイッチの押し方
+こちらの隙間からドライバーやピンセットを差し込むことで押すことができます。
+
+### ファームウェアのフォルダ
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
+
+### プレートのデータ
+- [onthe15_plates.zip]()
+
+### 販売ページ
+- BOOTH: https://tarohayashi.booth.pm/items/3657566
