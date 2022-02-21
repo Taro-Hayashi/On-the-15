@@ -1,4 +1,4 @@
-# On the 15 60%ケース対応版 ビルドガイド（[スタンドアローン版](https://github.com/Taro-Hayashi/On-the-15/blob/main/README_SA.md)）
+# On the 15 60%ケース対応版（[スタンドアローン版](https://github.com/Taro-Hayashi/On-the-15/blob/main/README_SA.md)）
 - [キット内容](#キット内容)
 - [レイアウトを決める](#レイアウトを決める)
 - [ソケットのはんだ付け](#ソケットのはんだ付け)
