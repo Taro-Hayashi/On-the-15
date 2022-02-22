@@ -1,4 +1,4 @@
-# On the 15 スタンドアローン版（[60%ケース対応版](https://github.com/Taro-Hayashi/On-the-15/blob/main/README.md)）
+# On the 15 オリジナルケース版（[60%ケース対応版](https://github.com/Taro-Hayashi/On-the-15/blob/main/README.md)）
 - [キット内容](#キット内容)
 - [レイアウトを決める](#レイアウトを決める)
 - [はんだ付け](#はんだ付け)
