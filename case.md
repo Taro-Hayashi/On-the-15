@@ -1,8 +1,9 @@
 # 対応を確認したケース
 
 ## 60%プラスチックケース
-
+![](img/case1.png)  
 ## TOFU ACRYLIC FROSTED 60% CASE
+![](img/case2.png)  
 ## BBOX60
 
 ネジ穴を横長にしているので概ね設置できると思います。
