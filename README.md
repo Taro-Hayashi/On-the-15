@@ -54,9 +54,9 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
 ## ソケットのはんだ付け
 使うソケットのパッドに予備はんだをします。最下段はキーの長さに気を付けてください。  
-![](img/IMG_6119.JPEG)  
-![](img/IMG_6120.JPEG) 
-![](img/IMG_6123.JPEG) 
+![](img/IMG_6119.jpg)  
+![](img/IMG_6120.jpg) 
+![](img/IMG_6123.jpg) 
 あらかじめ薄くはんだを乗せます。  
 ![](img/IMG_6124.JPEG)  
 ソケットを置いたらピンセットで押さえつけながらはんだを注いでいきます。入り組んでいて表面積が多いので多めに必要になります。 
