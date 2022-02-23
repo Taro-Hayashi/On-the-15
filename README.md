@@ -49,10 +49,12 @@ On the 15は60キーの格子配列キーボードですが、色のついたキ
 ![](img/layout1.png)  
 ビルドガイドではこのようなレイアウトで組み立てます。　
 ![](img/layout2.png)  
+
 <!-- 
 RemapやKeyboard Layout Editorでシミュレーションすることもできます。  
 - Remap
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
+-->
 
 ## はんだ付け
 ### ソケットのはんだ付け
@@ -141,6 +143,7 @@ ChromeかEdgeでRemapにアクセスしてください。
 こちらの隙間からドライバーやピンセットを差し込むことで押すことができます。
 ![](img/IMG_6327.jpg)  
 
+<!--
 ### ファームウェアのアップデート
 不具合なく動いている場合は必要ありません。問題があった場合はお試しいただくと解決することがあります。  
 Remapのファームウェアのページにアクセスしてください。  
@@ -154,6 +157,7 @@ Bootloaderをdfuに変更してください。
 ![](img/remap04.jpg) 
 書き込みが完了したらウィンドウを閉じて大丈夫です。  
 ![](img/remap05.jpg) 
+-->
 
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
