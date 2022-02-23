@@ -48,9 +48,14 @@ On the 15は60キーの格子配列キーボードですが、色のついたキ
 ![](img/layout1.png)  
 ビルドガイドではこのようなレイアウトで組み立てます。　
 ![](img/layout2.png)  
+
+<!-- 
 RemapやKeyboard Layout Editorでシミュレーションすることもできます。  
 - Remap
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
+-->
+
+
 ## はんだ付け
 ### ソケットのはんだ付け
 使うソケットのパッドに予備はんだをします。  
@@ -112,17 +117,23 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 キーキャップを付けたら完成です。  
 ![](img/IMG_6153.JPEG)  
 LEDをオフにしたい場合は左上(ESC)のキーを押しながらその下のキーを押してください。  
+
 ## キーマップのカスタマイズ
 デフォルトではビルドガイドに合わせたキーマップになっています。
 ![](img/layout3.png)
-ChromeかEdgeでRemapにアクセスしてください。  
+こちらのjsonファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
+- [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15.json)
 - Remap https://remap-keys.app/
 
 ![](img/remap1.png)  
 左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
 
+jsonファイルが必要になるのでダウンロードしたものをインポートします。  
+![](img/json.png) 
+
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap2.png)  
+
 
 ### レイアウトオプション
 キーの長さを作ったキーボードと合わせることができます。
@@ -137,6 +148,8 @@ ChromeかEdgeでRemapにアクセスしてください。
 こちらの隙間からドライバーやピンセットを差し込むことで押すことができます。
 ![](img/IMG_6327.jpg)  
 
+
+<!--
 ### ファームウェアのアップデート
 不具合なく動いている場合は必要ありません。問題があった場合はお試しいただくと解決することがあります。  
 Remapのファームウェアのページにアクセスしてください。  
@@ -148,6 +161,7 @@ Remap用ファームウェアをFLASHします。テストをしたい場合は�
 ![](img/remap04.jpg) 
 書き込みが完了したらウィンドウを閉じて大丈夫です。  
 ![](img/remap05.jpg) 
+-->
 
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
