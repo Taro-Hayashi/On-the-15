@@ -46,6 +46,8 @@
 ## レイアウトを決める
 On the 15は60キーの格子配列キーボードですが、色のついたキーは長さを変更することできます。  
 ![](img/layout1.png)  
+- [Keyboard Layout Editorで見る](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)  
+  
 ビルドガイドではこのようなレイアウトで組み立てます。　
 ![](img/layout2.png)  
 
@@ -66,11 +68,11 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 最下段はキーの長さを選べるかわりに複雑になっています。
 ![](img/IMG_6119.jpg)  
   
-![](img/IMG_6120.jpg) 
+![](img/IMG_6120.jpg)   
   
-![](img/IMG_6123.jpg) 
-  
+![](img/IMG_6123.jpg)   
 1Uと2Uは共存できますが他の長さの位置を間違えた、もしくは変更する場合はソケットを付けなおしてください。  
+  
 ![](img/IMG_6126.JPEG)  
 慣れてきたら予備はんだを省略したり、一度に複数個置いてはんだ付けをすると楽になります。  
 ### リセットスイッチのはんだ付け
@@ -124,17 +126,20 @@ LEDをオフにしたい場合は左上(ESC)のキーを押しながらその下
 こちらのjsonファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
 - [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15.json)
 - Remap https://remap-keys.app/
-
+  
+  
 ![](img/remap1.png)  
 左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
-
+  
+  
 jsonファイルが必要になるのでダウンロードしたものをインポートします（このステップは省略できるようになる予定です）。  
 ![](img/json.png) 
-
+  
+  
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap2.png)  
-
-
+  
+  
 
 ### レイアウトオプション
 キーの長さを作ったキーボードと合わせることができます。
