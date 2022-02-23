@@ -146,7 +146,7 @@ Remapのファームウェアのページにアクセスしてください。
 
 Remap用ファームウェアをFLASHします。テストをしたい場合はテスト版を選んでください。  
 ![](img/remap06.jpg) 
-Bootloaderをdfuに変更してください。
+Bootloaderをdfuに変更してください。  
 ![](img/remap07.png) 
 キットのリセットスイッチを押すとArduino Microが現れるので、クリックして接続します。  
 ![](img/remap04.jpg) 
