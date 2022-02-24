@@ -47,16 +47,14 @@
 ## レイアウトを決める
 On the 15は60キーの格子配列キーボードですが、色のついたキーは長さを変更することができます。  
 ![](img/layout1.png)  
-- [Keyboard Layout Editorで見る](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
   
 ビルドガイドではこのようなレイアウトで組み立てます。　
 ![](img/layout2.png)  
 
-<!-- 
 RemapやKeyboard Layout Editorでシミュレーションすることもできます。  
 - Remap
 - [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
--->
+
 
 ## はんだ付け
 ### ソケットのはんだ付け
