@@ -43,19 +43,17 @@
 |ピンセット|
 |精密ドライバー|
 
+
 ## レイアウトを決める
 On the 15は60キーの格子配列キーボードですが、色のついたキーは長さを変更することができます。  
 ![](img/layout1.png)  
-- [Keyboard Layout Editorで見る](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)  
+
+RemapやKeyboard Layout Editorでシミュレーションすることもできます。  
+- [Remap - On the 15 - KEYMAP](https://remap-keys.app/catalog/9bQPDxdkX8xgflHlsR9p/keymap)
+- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
   
 ビルドガイドではこのようなレイアウトで組み立てます。　
 ![](img/layout2.png)  
-
-<!-- 
-RemapやKeyboard Layout Editorでシミュレーションすることもできます。  
-- Remap
-- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
--->
 
 
 ## はんだ付け
@@ -123,18 +121,13 @@ LEDをオフにしたい場合は左上(ESC)のキーを押しながらその下
 ## キーマップのカスタマイズ
 デフォルトではビルドガイドに合わせたキーマップになっています。
 ![](img/layout3.png)
-こちらのjsonファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
-- [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15.json)
+ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app/
   
   
 ![](img/remap1.png)  
 左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
-  
-  
-jsonファイルが必要になるのでダウンロードしたものをインポートします（このステップは省略できるようになる予定です）。  
-![](img/json.png) 
-  
+
   
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap2.png)  
