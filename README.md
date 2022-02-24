@@ -120,18 +120,11 @@ LEDをオフにしたい場合は左上(ESC)のキーを押しながらその下
 ## キーマップのカスタマイズ
 デフォルトではビルドガイドに合わせたキーマップになっています。
 ![](img/layout3.png)
-こちらのjsonファイルをダウンロードして、ChromeかEdgeでRemapにアクセスしてください。  
-- [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15.json)
+ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app/
-  
   
 ![](img/remap1.png)  
 左を選んで進んでいくとアドレスバーからメッセージが出てキーボードを選択できます。  
-  
-  
-jsonファイルが必要になるのでダウンロードしたものをインポートします（このステップは省略できるようになる予定です）。   
-![](img/json.png) 
-  
   
 ドラッグアンドドロップでキーマップの変更が終わったら右上のflashボタンを押すと反映されます。  
 ![](img/remap2.png)  
