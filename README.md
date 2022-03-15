@@ -144,21 +144,6 @@ ChromeかEdgeでRemapにアクセスしてください。
 こちらの隙間からドライバーやピンセットを差し込むことで押すことができます。
 ![](img/IMG_6327.jpg)  
 
-### ファームウェアのアップデート
-不具合なく動いている場合は必要ありません。問題があった場合はお試しいただくと解決することがあります。  
-Remapのファームウェアのページにアクセスしてください。  
-- Remap
-
-#### Windowsの場合
-Remap用ファームウェアをFLASHします。テストをしたい場合はテスト版を選んでください。  
-![](img/remap06.jpg) 
-Bootloaderをdfuに変更してください。  
-![](img/remap07.png) 
-キットのリセットスイッチを押すとArduino Microが現れるので、クリックして接続します。  
-![](img/remap04.jpg) 
-書き込みが完了したらウィンドウを閉じて大丈夫です。  
-![](img/remap05.jpg) 
-
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
 
