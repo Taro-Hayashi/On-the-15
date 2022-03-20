@@ -172,5 +172,5 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/o
 - [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15_plates.zip)
 
 ### 販売ページ
-- 60%ケース対応版（BOOTH）: https://tarohayashi.booth.pm/items/3657566
-- オリジナルケース版（BOOTH）: https://tarohayashi.booth.pm/items/3672079
+- On the 15（BOOTH）: https://tarohayashi.booth.pm/items/3672079
+- 60%ケース対応パーツ（BOOTH）: https://tarohayashi.booth.pm/items/3657566
