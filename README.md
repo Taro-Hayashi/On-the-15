@@ -173,7 +173,7 @@ LEDをオフにしたい場合は左上(ESC)のキーを押しながらその下
 
 
 ### ファームウェアのコード
-https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
+https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15
 
 ### VIA用JSON
 - [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15.json)
