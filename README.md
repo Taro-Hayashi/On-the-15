@@ -8,16 +8,22 @@
 
 ## キット内容
 ![](img/IMG_6331.jpg)  
-||部品名|数|
-|-|-|-|
-|1|メインボード|1|
-|2|トッププレート|1|
-|3|ボトムプレート|1|
-|4|ネジ|22|
-|5|スペーサー|11|
-|6|リセットスイッチ|1|
-|7|Cherry MX ホットスワップソケット|60|
-|8|ゴム足|6|
+![](img/IMG_8030.jpg)  
+||部品名|数| |
+|-|-|-|-|
+|1|メインボード|1||
+|2|トッププレート|1||
+|3|ボトムプレート|1||
+|4|ネジ|22||
+|5|スペーサー|11||
+|6|リセットスイッチ|1||
+|7|Cherry MX ホットスワップソケット|60||
+|8|ゴム足|6||
+|9|アクリルミドルプレート||クリアー|
+|10|2Uスタビライザー|1|色は決まっていません|
+|11|ロータリーエンコーダー|1||
+|12|ノブ|1|色は決まっていません|
+
 
 ### キット以外に必要なもの
 |部品名|数|||
@@ -26,13 +32,13 @@
 |キーキャップ|〜60|CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)|
 |Type-C ケーブル|1|||
 
-### オプション
-|部品名|数|||
-|-|-|-|-|
-|スタビライザー||2U、PCBマウント|[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/Stabilizer) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=5f884b9b3313d216eb50558a)|
-|ロータリーエンコーダ|～4|EC11/EC12/ロープロファイル|[遊舎工房](https://shop.yushakobo.jp/search?q=%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC+%E3%83%8E%E3%83%96%E4%BB%98%E3%81%8D) / [TALPKEYBOARD](https://talpkeyboard.net/items/5f3f1a597df28129f2fd4b0f) / [DailyCraftKeyboard](https://shop.dailycraft.jp/products/encoder_low) / [Amazon](https://www.amazon.co.jp/s?k=EC11+%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC&language=ja_JP)|
-|ノブ|～4|外径19mmまで|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/encoder_lowprofile_knob) / [Amazon](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC+%E3%83%8E%E3%83%96)|
-|アクリルプレート|||プレートのデータ [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15_plates.zip)|
+
+### 追加できるもの
+|部品名|||
+|-|-|-|
+|スタビライザー|2U、PCBマウント|[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/Stabilizer) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=5f884b9b3313d216eb50558a)|
+|ロータリーエンコーダ|EC11/EC12/ロープロファイル|[遊舎工房](https://shop.yushakobo.jp/search?q=%E3%83%AD%E3%83%BC%E3%82%BF%E3%83%AA%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC+%E3%83%8E%E3%83%96%E4%BB%98%E3%81%8D) / [TALPKEYBOARD](https://talpkeyboard.net/items/5f3f1a597df28129f2fd4b0f) / [DailyCraftKeyboard](https://shop.dailycraft.jp/products/encoder_low) / [Amazon](https://www.amazon.co.jp/s?k=EC11+%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC&language=ja_JP)|
+|ノブ|外径19mmまで|[DailyCraftKeyboard](https://shop.dailycraft.jp/products/encoder_lowprofile_knob) / [Amazon](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%80%E3%83%BC+%E3%83%8E%E3%83%96)|
 
 ### 必要な工具
 |工具名|
@@ -63,21 +69,15 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 ![](img/IMG_6124.JPEG)  
 ソケットを置いたらピンセットで押さえつけながらはんだを注いでいきます。入り組んでいて表面積が多いので多めに必要になります。
 ![](img/IMG_6125.JPEG)  
-最下段はキーの長さを選べるかわりに複雑になっています。
-![](img/IMG_6119.jpg)  
-
-![](img/IMG_6120.jpg)   
-
-![](img/IMG_6123.jpg)   
-1Uと2Uは共存できますが他の長さの位置を間違えた、もしくは変更する場合はソケットを付けなおしてください。  
-
-![](img/IMG_6126.JPEG)  
+最下段のキーはシルク印刷を参考にしてソケットを取り付けてください。
+![](img/IMG_8033.jpg)  
 慣れてきたら予備はんだを省略したり、一度に複数個置いてはんだ付けをすると楽になります。  
+![](img/IMG_6126.JPEG)  
 ### リセットスイッチのはんだ付け
 表面左側のRESETと書いてあるところにリセットスイッチを差して裏からはんだ付けします。  
 ![](img/IMG_6127.JPEG)  
 
-### （オプション）ロータリーエンコーダーのはんだ付け
+### ロータリーエンコーダーのはんだ付け
 足を折らないようにホールに通して裏からはんだ付けします。  
 ![](img/IMG_6128.JPEG)   
 
@@ -87,7 +87,7 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 ![](img/IMG_6131.JPEG)   
 
 ## 組み立て
-### （オプション）スタビライザーを組み立てる
+### スタビライザーを組み立てる
 スタビライザーがあると2Uのキーの押下が安定します。無くても使えるのでお好みでお使いください。  
 ねじ止め式のスタビライザーは縦に二つ並べておくことはできないので使う場所に気をつけるかスナップ型のスタビライザーを使ってください。  
 
@@ -103,11 +103,13 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 ![](img/IMG_6149.JPEG)   
 メインボードにかぶせて、4隅のスイッチをはめ込みます。  
 ![](img/IMG_6150.JPEG)   
+すべてのスイッチを差し込みました。  
+![](img/IMG_6152.JPEG)  
 
-### （オプション）アクリルプレートを挟み込む
+### アクリルプレートを挟み込む
 画像のような形で3段にして挟み込みます。  
 ![](img/IMG_6161.JPEG)  
-赤丸の部分の1段目は一度スペーサーを外してスライドさせてください。  
+赤丸の部分の1段目は一度スペーサーを外してスライドさせた方が楽かもしれません。 
 ![](img/IMG_6159.JPEG)  
 
 
@@ -116,7 +118,8 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 ![](img/IMG_6153.JPEG)  
 キーキャップを付けたら完成です。  
 ![](img/IMG_6154.JPEG)  
-LEDをオフにしたい場合は左上(ESC)のキーを押しながらその下のキーを押してください。  
+LEDをオフにしたい場合は左上(ESC)のキーを押しながらその下のキーを押してください。   
+光り方を変えたい場合は左上(ESC)のキーを押しながらその隣のキーを押してください。  
 
 ## キーマップのカスタマイズ
 デフォルトではビルドガイドに合わせたキーマップになっています。
@@ -144,36 +147,17 @@ ChromeかEdgeでRemapにアクセスしてください。
 
 
 
-## 60%ケースに入れる
-[60%ケース対応パーツ](https://tarohayashi.booth.pm/items/3657566)をご購入いただくことでPoker互換ケースに入れることができます。
-### メインボードをケースに設置する
-マウントプレートにスペーサー、ワッシャー、ナットを取り付けます。  
-Type-Cのコネクタが付いている方を左側にして、画像のように付けてください。  
-![](img/IMG_6133.JPEG)   
-ワッシャーはスペーサーの側に通します。  
-![](img/IMG_6135.JPEG)   
-ケースにマウントプレートをねじ止めします。  
-![](img/IMG_6137.JPEG)   
-メインボードをねじ止めします。  
-![](img/IMG_6266.JPEG)   
-
-### トッププレートを取り付ける
-メインボードとトッププレートの位置を合わせて、まずは4隅にキースイッチをはめ込みます。  
-![](img/IMG_6268.JPEG)   
-メインプレートにはスイッチのツメにひっかかるように、メインボードに差す時はピンが曲がらないように気を付けます。  
-![](img/IMG_6144.JPEG)   
-キーキャップを付けたら完成です。
-![](img/IMG_6148.JPEG) 
-LEDをオフにしたい場合は左上(ESC)のキーを押しながらその下のキーを押してください。
 
 ## そのほか
 ### リセットスイッチの押し方
 こちらの隙間からドライバーやピンセットを差し込むことで押すことができます。
 ![](img/IMG_6327.jpg)  
-
+### 60%ケースに入れる
+BOOTHにて60%ケース対応パーツをご購入いただくことでPoker互換ケースに入れることができます。
+- [60%ケース対応パーツ ビルドガイド](60.md)
 
 ### ファームウェアのコード
-https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15
+https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
 
 ### VIA用JSON
 - [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15.json)
@@ -183,4 +167,3 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohaya
 
 ### 販売ページ
 - On the 15（BOOTH）: https://tarohayashi.booth.pm/items/3672079
-- 60%ケース対応パーツ（BOOTH）: https://tarohayashi.booth.pm/items/3657566
