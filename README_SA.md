@@ -71,11 +71,8 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 ![](img/IMG_6125.JPEG)  
 最下段のキーはシルク印刷を参考にしてソケットを取り付けてください。
 ![](img/IMG_8033.jpg)  
-
-1Uと2Uは共存できますが他の長さの位置を間違えた、もしくは変更する場合はソケットを付けなおしてください。  
-
-![](img/IMG_6126.JPEG)  
 慣れてきたら予備はんだを省略したり、一度に複数個置いてはんだ付けをすると楽になります。  
+![](img/IMG_6126.JPEG)  
 ### リセットスイッチのはんだ付け
 表面左側のRESETと書いてあるところにリセットスイッチを差して裏からはんだ付けします。  
 ![](img/IMG_6127.JPEG)  
@@ -154,7 +151,8 @@ ChromeかEdgeでRemapにアクセスしてください。
 こちらの隙間からドライバーやピンセットを差し込むことで押すことができます。
 ![](img/IMG_6327.jpg)  
 ### 60%ケースに入れる
-60%ケース対応パーツをご購入いただくことでPoker互換ケースに入れることができます。
+BOOTHにて60%ケース対応パーツをご購入いただくことでPoker互換ケースに入れることができます。
+- [60%ケース対応パーツ ビルドガイド](60.md)
 
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
@@ -167,4 +165,3 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/o
 
 ### 販売ページ
 - On the 15（BOOTH）: https://tarohayashi.booth.pm/items/3672079
-- 60%ケース対応パーツ（BOOTH）: https://tarohayashi.booth.pm/items/3657566
