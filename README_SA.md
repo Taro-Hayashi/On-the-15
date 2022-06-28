@@ -33,7 +33,7 @@
 |Type-C ケーブル|1|||
 
 
-### オプション（一つずつ同梱されています）
+### 追加できるもの
 |部品名|||
 |-|-|-|
 |スタビライザー|2U、PCBマウント|[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/Stabilizer) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=5f884b9b3313d216eb50558a)|
