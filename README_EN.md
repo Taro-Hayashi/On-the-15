@@ -1,36 +1,35 @@
 # On the 15 Build Manual ([日本語](README.md))
-- [キット内容](#キット内容)
-- [レイアウトを決める](#レイアウトを決める)
-- [はんだ付け](#はんだ付け)
-- [組み立て](#組み立て)
-- [キーマップのカスタマイズ](#キーマップのカスタマイズ)
-- [そのほか](#そのほか)
+- [Contents](#Contents)
+- [Soldering](#Soldering)
+- [Testing](#Testing)
+- [Assembling](#Assembling)
+- [Customise](#Customise)
 
-## キット内容
+## Contents
 ![](img/IMG_6331.jpg)  
 ![](img/IMG_8030.jpg)  
-||部品名|数| |
-|-|-|-|-|
-|1|メインボード|1||
-|2|トッププレート|1||
-|3|ボトムプレート|1||
-|4|ネジ|22||
-|5|スペーサー|11||
-|6|リセットスイッチ|1||
-|7|Cherry MX ホットスワップソケット|60||
-|8|ゴム足|6||
-|9|アクリルミドルプレート||クリアー|
-|10|2Uスタビライザー|1|色は決まっていません|
-|11|ロータリーエンコーダー|1||
-|12|ノブ|1|色は決まっていません|
+||Name|Quantities|
+|-|-|-|
+|1|Main board|1|
+|2|Top plate|1|
+|3|Bottom plate|1|
+|4|Screws|22|
+|5|Spacers|11|
+|6|Tactile Switch|1|
+|7|Hotswap sockets|60|
+|8|Rubber feet|6|
+|9|Middle paltes||
+|10|Stabilizer|1|
+|11|Rotary encoder|1|
+|12|Knob|1|
 
 
-### キット以外に必要なもの
-|部品名|数|||
-|-|-|-|-|
-|キースイッチ|〜60|CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/all-switches/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%B9%E3%82%A4%E3%83%83%E3%83%81) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59cf8860ed05e668db003f5d) / [DailyCraftKeyboard](https://shop.dailycraft.jp/collections/mx-switches)|
-|キーキャップ|〜60|CherryMX互換|[遊舎工房](https://shop.yushakobo.jp/collections/keycaps/cherry-mx-%E4%BA%92%E6%8F%9B-%E3%82%AD%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%97) / [TALPKEYBOARD](https://talpkeyboard.net/?category_id=59e2acfaed05e644fd004008)|
-|Type-C ケーブル|1|||
+### Additional required
+|Name|Quantities||
+|-|-|-|
+|Keyswitches|up to 60|CherryMX|
+|Keycaps|up to 60|CherryMX|
+|Type-C Cable|1||
 
 
 ### 追加できるもの
