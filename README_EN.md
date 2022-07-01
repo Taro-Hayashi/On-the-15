@@ -1,5 +1,5 @@
 # On the 15 Build Manual ([日本語](README.md))
-- [Contens](#Contens)
+- [Contents](#Contens)
 - [Preparation](#Preparation)
 - [Soldering](#Soldering)
 - [Assembling](#Assembling)
