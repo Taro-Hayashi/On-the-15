@@ -168,4 +168,6 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohaya
 - [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/download/15.23/onthe15_plates.zip)
 
 ### 販売ページ
+- 遊舎工房: [On the 15](https://shop.yushakobo.jp/products/4994?variant=43917315539175)
 - BOOTH: [On the 15（B-Stock）、60%ケース対応パーツ](https://tarohayashi.booth.pm/items/3672079)
+
