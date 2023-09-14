@@ -129,7 +129,7 @@ LEDをオン/オフにしたい場合は左上(ESC)のキーを押しながら�
 デフォルトではビルドガイドに合わせたキーマップになっています。
 ![](img/layout3.png)
 ChromeかEdgeでRemapにアクセスしてください。  
-- Remap https://qmk018.remap-keys.app
+- Remap https://remap-keys.app
 
 
 ![](img/remap1.png)  
