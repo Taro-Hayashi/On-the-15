@@ -110,9 +110,6 @@ After Drag-and-Drop the keys, press the flash button in the upper right corner.
 ### Repository
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
 
-### JSON
-- [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/latest/download/onthe15.json)
-
 ### Plates data
 - [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/latest/download/15.23/onthe15_plates.zip)
 
