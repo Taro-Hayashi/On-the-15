@@ -166,9 +166,6 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15
 
-### VIA用JSON
-- [onthe15.json](https://github.com/Taro-Hayashi/On-the-15/releases/latest/download/onthe15.json)
-
 ### プレートのデータ
 - [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/latest/download/onthe15_plates.zip)
 
