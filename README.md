@@ -144,6 +144,9 @@ ChromeかEdgeでRemapにアクセスしてください。
 ### レイアウトオプション
 キーの長さを作ったキーボードと合わせることができます。
 ![](img/layoutoption.png)  
+### 特殊なキーを設定する
+FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカットキーがあります。
+![](img/shortcuts.png)  
 ### レイアウトの保存と復元
 ⇔アイコンで作ったレイアウトを保存することができます。  
 ![](img/keymaps.png)  
