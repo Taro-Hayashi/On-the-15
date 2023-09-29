@@ -87,7 +87,7 @@ Install the Keycaps.
 ![](img/IMG_6154.JPEG)  
 Thank you for your time.
 
-### テストファームウェアの書き込み
+### Install latest firmware
 Download firmware.
 - https://remap-keys.app/catalog/9bQPDxdkX8xgflHlsR9p/firmware
 
@@ -98,6 +98,8 @@ Install QMK Toolbox.
 
 ![](img/release.png)  
 ![](img/qmktoolbox1.png)   
+
+Push tactile switch.
 ![](img/qmktoolbox2.png)  
 ![](img/qmktoolbox3.png)   
 
