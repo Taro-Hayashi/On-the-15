@@ -91,21 +91,17 @@ Install the Keycaps.
 Thank you for your time.
 
 ## Customise
-![](img/layout3.png)
 Access Remap.  
 - Remap https://remap-keys.app/
 
 Select the blue button on the left to proceed.  
 ![](img/remap1.png)  
 
-
-After Drag-and-Drop the keys, press the flash button in the upper right corner.  
 ![](img/remap2.png)  
 
-### Addust layout
-![](img/layoutoption.png)  
-### Save and restore layout  
-![](img/keymaps.png)  
+After Drag-and-Drop the keys, press the flash button in the upper right corner.  
+
+![](img/remap3.png) 
 
 ### Repository
 https://github.com/Taro-Hayashi/qmk_firmware/tree/master/keyboards/tarohayashi/onthe15
