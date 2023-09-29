@@ -43,9 +43,6 @@
 ## Preparation
 This kit has a variety of layouts to choose from.
 ![](img/layout1.png)    
-- [Remap - On the 15 - KEYMAP](https://remap-keys.app/catalog/9bQPDxdkX8xgflHlsR9p/keymap)
-- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
-
 In this manual, we use rotary encoder and 2 2U keys.
 ![](img/layout2.png)  
 
