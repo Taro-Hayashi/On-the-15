@@ -99,7 +99,7 @@ Install QMK Toolbox.
 ![](img/release.png)  
 ![](img/qmktoolbox1.png)   
 
-Push tactile switch.
+Push tactile switch and press flash.
 ![](img/qmktoolbox2.png)  
 ![](img/qmktoolbox3.png)   
 
