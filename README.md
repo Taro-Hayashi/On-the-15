@@ -59,10 +59,6 @@
 On the 15は60キーの格子配列キーボードですが、色のついたキーは長さを変更することができます。  
 ![](img/layout1.png)  
 
-RemapやKeyboard Layout Editorでシミュレーションすることもできます。  
-- [Remap - On the 15 - KEYMAP](https://remap-keys.app/catalog/9bQPDxdkX8xgflHlsR9p/keymap)
-- [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/feebeb1f95b04ed5593eb9c8289f1239)
-
 ビルドガイドではこのようなレイアウトで組み立てます。　
 ![](img/layout2.png)  
 
@@ -84,8 +80,26 @@ RemapやKeyboard Layout Editorでシミュレーションすることもでき�
 足を折らないようにホールに通して裏からはんだ付けします。  
 ![](img/IMG_6128.JPEG)   
 
+### テストファームウェアの書き込み
+テスト用のファームウェアをこちらからダウンロードしてください。
+- https://remap-keys.app/catalog/9bQPDxdkX8xgflHlsR9p/firmware
+
+![](img/firmwaretest.png) 
+
+QMK Toolboxのreleaseページから最新版をダウンロードしてインストールください。  
+- [Releases・qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox/releases)
+
+![](img/release.png)  
+起動したらOpenを押してダウンロードしたファームウェアを指定し、はんだ付けしたリセットボタンを押します。  
+![](img/qmktoolbox1.png)   
+新しく黄色の文字が出てきたらFlashを押します。  
+![](img/qmktoolbox2.png)  
+
+Thank youの後に黄色い文字が出たら更新完了です。  
+![](img/qmktoolbox3.png)   
+
 ### 動作確認
-キースイッチを差したり裏をピンセットで短絡したりして動作確認をしておくと安心です。  
+キースイッチを差したり裏をピンセットで短絡したりして動作確認をします。  
 ![](img/IMG_6129.JPEG)   
 ![](img/IMG_6131.JPEG)   
 
@@ -125,9 +139,13 @@ LEDをオン/オフにしたい場合は左上(ESC)のキーを押しながら�
 光り方を変えたい場合は左上(ESC)のキーを押しながらその隣のキー（1か2）を押してください。  
 これらは設定で変更することが可能です。  
 
+### Remap用ファームウェアの書き込み
+Remap用のファームウェアをこちらからダウンロードして、さきほどと同様に書き込んでください。
+- https://remap-keys.app/catalog/9bQPDxdkX8xgflHlsR9p/firmware
+
+![](img/firmwareremap.png)
+
 ## キーマップのカスタマイズ
-デフォルトではビルドガイドに合わせたキーマップになっています。
-![](img/layout3.png)
 ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app
 
@@ -150,18 +168,13 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 ### レイアウトの保存と復元
 ⇔アイコンで作ったレイアウトを保存することができます。  
 ![](img/keymaps.png)  
-いくつかサンプルをご用意しました。自分のレイアウトを公開することもできますのでお気軽に共有してください。
-
-
+自分のレイアウトを公開することもできますのでお試しください。
 
 
 ## そのほか
 ### リセットスイッチの押し方
 こちらの隙間からドライバーやピンセットを差し込むことで押すことができます。
 ![](img/IMG_6327.jpg)  
-### 60%ケースに入れる
-60%ケース対応パーツをご購入いただくことでPoker互換ケースに入れることができます。
-- [60%ケース対応パーツ ビルドガイド](60.md)
 
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15
@@ -171,5 +184,5 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohaya
 
 ### 販売ページ
 - 遊舎工房: [On the 15](https://shop.yushakobo.jp/products/4994?variant=43917315539175)
-- BOOTH: [On the 15（B-Stock）、60%ケース対応パーツ](https://tarohayashi.booth.pm/items/3672079)
+- BOOTH: [On the 15（B-Stock）、アクリルケース](https://tarohayashi.booth.pm/items/3672079)
 
