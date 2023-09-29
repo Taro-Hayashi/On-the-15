@@ -146,8 +146,6 @@ Remap用のファームウェアをこちらからダウンロードして、さ
 ![](img/firmwareremap.png)
 
 ## キーマップのカスタマイズ
-デフォルトではビルドガイドに合わせたキーマップになっています。
-![](img/layout3.png)
 ChromeかEdgeでRemapにアクセスしてください。  
 - Remap https://remap-keys.app
 
