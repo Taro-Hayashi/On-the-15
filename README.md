@@ -181,7 +181,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 
 ### LEDを調整する
 このボタンで発光方法を変更することができます。
-![](../img/remapledset.png)  
+![](img/remapledset.png)  
 
 ## そのほか
 ### リセットスイッチの押し方
