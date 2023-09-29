@@ -87,6 +87,20 @@ Install the Keycaps.
 ![](img/IMG_6154.JPEG)  
 Thank you for your time.
 
+### テストファームウェアの書き込み
+Download firmware.
+- https://remap-keys.app/catalog/9bQPDxdkX8xgflHlsR9p/firmware
+
+![](img/firmwareremap.png) 
+
+Install QMK Toolbox.
+- [Releases・qmk/qmk_toolbox](https://github.com/qmk/qmk_toolbox/releases)
+
+![](img/release.png)  
+![](img/qmktoolbox1.png)   
+![](img/qmktoolbox2.png)  
+![](img/qmktoolbox3.png)   
+
 ## Customise
 Access Remap.  
 - Remap https://remap-keys.app/
