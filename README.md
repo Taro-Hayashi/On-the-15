@@ -192,7 +192,7 @@ FUNCTIONSタブのVIA USER KEYにあらかじめ用意されたショートカ�
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/onthe15
 
 ### プレートのデータ
-- [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/latest/download/onthe15_plates.zip)
+- [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/download/0.22.3/onthe15_plates.zip)
 
 ### 販売ページ
 - 遊舎工房: [On the 15](https://shop.yushakobo.jp/products/4994?variant=43917315539175)
