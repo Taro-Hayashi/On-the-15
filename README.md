@@ -42,7 +42,7 @@
 |ノブ|外径19mmまで|[遊舎工房](https://shop.yushakobo.jp/products/3733) / [DailyCraftKeyboard](https://shop.dailycraft.jp/products/encoder_lowprofile_knob)|
 
 専用のアクリルケースもあります。  
-- [On the 15 アクリル積層ガスケットマウントケース](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/blob/main/README.md)  
+- [On the 15 アクリルケース](https://github.com/Taro-Hayashi/On-the-15-AcrylicCase/blob/main/README.md)  
 
 
 ### 必要な工具
@@ -193,8 +193,4 @@ https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohaya
 
 ### プレートのデータ
 - [onthe15_plates.zip](https://github.com/Taro-Hayashi/On-the-15/releases/download/0.22.3/onthe15_plates.zip)
-
-### 販売ページ
-- 遊舎工房: [On the 15](https://shop.yushakobo.jp/products/4994?variant=43917315539175)
-- BOOTH: [On the 15（B-Stock）、アクリルケース](https://tarohayashi.booth.pm/items/3672079)
 
